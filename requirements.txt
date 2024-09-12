@@ -1,1 +1,5 @@
-
+streamlit==1.25.0  # Update this based on the latest stable version of Streamlit
+langchain==0.0.123  # Make sure to pin the correct version based on your use of LangChain
+langchain-community
+wikipedia-api
+groq-api  # Replace with the actual name of the Groq API client library, if available
