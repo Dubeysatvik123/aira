@@ -152,7 +152,7 @@ assistant_agent = initialize_agent(
 )
 
 # Streamlit app setup
-st.set_page_config(page_title="Aira - Math & Code Assistant", page_icon="🧮")
+st.set_page_config(page_title="Ekaksh - Math & Code Assistant", page_icon="🧮")
 
 # Register form
 def register_user():
