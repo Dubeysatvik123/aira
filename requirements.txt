@@ -35,3 +35,9 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+streamlit
+sqlalchemy
+bcrypt
+langchain
+langchain_groq
+langchain_community
